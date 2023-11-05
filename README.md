@@ -41,4 +41,3 @@ C++ Integration: Integrating C++ code with Unity may require effort, especially 
 Asset Management: Handling images and audio assets in Unity can be complex. We will learn best practices for asset organization and management to ensure efficient integration.
 
 In conclusion, our project aims to combine C++ principles with Unity game development to create an engaging 2D game. We have outlined milestones and a project timeline, and we are prepared to tackle the anticipated challenges effectively.
- hello faizan
