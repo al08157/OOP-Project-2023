@@ -1,9 +1,9 @@
-////////////////////////////////////////////////////////////////////
+Instructions to Run the Program!
 
------------------------- download unity ----------------------------
+1.------------------------- download unity ---------------------------------
 
----------------- download the files from this repo -----------------
+2.---------------- download the files from this repo -----------------------
 
------ make a project and import these files into that project ------
+3.------- make a project and import these files into that projectw ---------
 
---------------- export project and enojy the game! -----------------
+4.----------------- export project and enojy the game! ---------------------
