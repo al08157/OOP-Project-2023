@@ -1,9 +1,9 @@
-Instructions to Run the Program!
+Instructions To Run The Program:
 
-1.------------------------- download unity ---------------------------------
+1------------------------- Download Unity --------------------------------
 
-2.---------------- download the files from this repo -----------------------
+2---------------- Download the files from this repo ----------------------
 
-3.------- make a project and import these files into that projectw ---------
+3------- Make a project and import these files into that project ---------
 
-4.----------------- export project and enojy the game! ---------------------
+4----------------- Export project and enjoy the game! --------------------
